@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaVendingMachine", "PizzaVendingMachine\PizzaVendingMachine.csproj", "{DECE2A37-02C6-4C8E-958C-D85F57465074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECE2A37-02C6-4C8E-958C-D85F57465074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECE2A37-02C6-4C8E-958C-D85F57465074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECE2A37-02C6-4C8E-958C-D85F57465074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECE2A37-02C6-4C8E-958C-D85F57465074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
